@@ -22,6 +22,5 @@ def wattsToAmps(currentType):
     try:
         print('This is', amps, 'A')
     except:
-        print('Could not calculate amperes based on the information you have provided, please check the documentation for help.')
-
-
+        print('Could not calculate Amps based on the information you have provided, please check the documentation for help.')
+        
